@@ -1,5 +1,5 @@
 # NeuralNetwork
-A basic neural network. hacked together to learn the basics of how a neural network operates. It comes with a file reader (read and write to a .txt) and a Image reader to read the normalized values of each pixel. 
+A basic neural network. Made to learn the basics of how a neural network operates. It comes with a file reader (read and write to a .txt) and a Image reader to read the normalized values of each pixel. 
 
 basic application: 
 ```java
